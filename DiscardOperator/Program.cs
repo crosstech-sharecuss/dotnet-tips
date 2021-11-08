@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IgnoredMethodResponse
+namespace DiscardOperator
 {
 	class Program
 	{
