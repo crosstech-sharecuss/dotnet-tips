@@ -1,4 +1,4 @@
-# Exiting from an Dotnet Application
+# Exiting from a Dotnet Application
 
 Use "Environment.Exit(code);" for exit dotnet application.
 
