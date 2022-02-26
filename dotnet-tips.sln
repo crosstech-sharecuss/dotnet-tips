@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exitting", "Exitting\Exitti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullPropagation", "NullPropagation\NullPropagation.csproj", "{0A58FCC3-3292-4140-947B-D48632E5F67B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLifeTime", "ApplicationLifeTime\ApplicationLifeTime.csproj", "{7098E623-9223-4962-B36D-1CAF681A94AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{0A58FCC3-3292-4140-947B-D48632E5F67B}.Release|x64.Build.0 = Release|Any CPU
 		{0A58FCC3-3292-4140-947B-D48632E5F67B}.Release|x86.ActiveCfg = Release|Any CPU
 		{0A58FCC3-3292-4140-947B-D48632E5F67B}.Release|x86.Build.0 = Release|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Debug|x64.Build.0 = Debug|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Debug|x86.Build.0 = Debug|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Release|x64.ActiveCfg = Release|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Release|x64.Build.0 = Release|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Release|x86.ActiveCfg = Release|Any CPU
+		{7098E623-9223-4962-B36D-1CAF681A94AB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
