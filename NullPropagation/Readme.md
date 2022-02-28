@@ -16,7 +16,7 @@ With Ternary Statement:
 var nameSurname = student != null ? student.NameSurname : "Object is null, please send student object";
 ``` 
 
-With Null Propagation:
+With Null Propagation Statement:
 ```c#
 var nameSurname = student?.NameSurname ?? "Object is null, please send student object";
 ```
